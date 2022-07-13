@@ -33,6 +33,6 @@ I'm a developper currently in cyber security but learning about all types of lan
 ## My stats :
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KehlanMetor&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KehlanMetor&layout=compact&theme=cobalt&hide_border=true" />
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/KehlanMetor?style=social">   <img alt="GitHub" src="https://img.shields.io/github/license/KehlanMetor/likely-bot"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/codemirror?style=social">
