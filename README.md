@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**KehlanMetor/KehlanMetor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developper cureently in cyber security but learning about all types of languages :
+C#/C++
+Java / Javascript
+Python
+Ruby
+SQL sh
+html
+php
 
-Here are some ideas to get you started:
+My stats :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/KehlanMetor?style=social">   <img alt="GitHub" src="https://img.shields.io/github/license/KehlanMetor/likely-bot"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/codemirror?style=social">
