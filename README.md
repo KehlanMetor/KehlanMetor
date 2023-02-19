@@ -2,7 +2,7 @@
 
 I'm a developper currently in cyber security but learning about all types of languages.
 
-<a href="https://app.daily.dev/Kehlan"><img src="https://github.com/KehlanMetor/KehlanMetor/blob/master/DevCard.svg" width="400" alt="Pingu Dev Card"/></a>
+<a href="https://app.daily.dev/Kehlan"><img src="https://github.com/KehlanMetor/KehlanMetor/blob/master/DevCard.yml" width="400" alt="Pingu Dev Card"/></a>
 
 Click for [My Custom Portfolio](https://tools.papyrs.com/@home)
 ## My coding languages :
