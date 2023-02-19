@@ -2,6 +2,8 @@
 
 I'm a developper currently in cyber security but learning about all types of languages.
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/KehlanMetor/KehlanMetor/blob/master/devcard.svg" width="400" alt="Pingu Dev Card"/></a>
+
 Click for [My Custom Portfolio](https://tools.papyrs.com/@home)
 ## My coding languages :
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
