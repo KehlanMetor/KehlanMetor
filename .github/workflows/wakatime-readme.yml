@@ -13,6 +13,7 @@ jobs:
       - uses: athul/waka-readme@master # Action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           # Content
           SHOW_TITLE: true
