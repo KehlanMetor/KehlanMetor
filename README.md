@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a developper currently in cyber security but learning about all types of languages.
+I'm a developper currently in cyber security and learning about all types of languages.
 
 <a href="https://app.daily.dev/Kehlan"><img src="https://api.daily.dev/devcards/595d47eda97447629daf7cfe9cc58ffa.png?r=f8k" width="300" alt="Kehlan's Dev Card"/></a>
 
