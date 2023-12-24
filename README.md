@@ -50,8 +50,5 @@ CSS                      1 repo              █████░░░░░░�
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-## My stats :
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KehlanMetor&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DDC7A0&height=120&section=footer"/>
