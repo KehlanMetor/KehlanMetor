@@ -1,3 +1,5 @@
+<a href="https://github.com/KehlanMetor"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"></a>
+
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <a href="https://app.daily.dev/Kehlan"><img src="https://api.daily.dev/devcards/595d47eda97447629daf7cfe9cc58ffa.png?r=f8k" width="300" alt="Kehlan's Dev Card"/></a>
@@ -24,3 +26,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KehlanMetor&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KehlanMetor&layout=compact&theme=cobalt&hide_border=true" />
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
