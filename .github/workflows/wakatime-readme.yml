@@ -1,0 +1,33 @@
+name: WakaTime Readme
+
+on:
+  workflow_dispatch: # Manual workflow trigger
+  schedule:
+    - cron: "0 3 * * *" # Updates every day
+
+jobs:
+  update-readme-languages:
+    name: WakaTime Readme Language Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master # Action name
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Content
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ▱▰
+          CODE_LANG: python
+          TIME_RANGE: last_7_days
+          # TIME_RANGE: last_30_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+
+          # Commit
+          COMMIT_MESSAGE: Update wakatime-readme info
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: github-actions[bot]
+          COMMITTER_EMAIL: github-actions-bot@github.com
