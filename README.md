@@ -1,4 +1,4 @@
-<a href="https://github.com/KehlanMetor"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DDC7A0&height=100&section=header"></a>
+<a href="https://github.com/KehlanMetor"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DDC7A0&height=120&section=header"></a>
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <a href="https://app.daily.dev/Kehlan"><img src="https://api.daily.dev/devcards/595d47eda97447629daf7cfe9cc58ffa.png?r=f8k" width="300" alt="Kehlan's Dev Card"/></a>
