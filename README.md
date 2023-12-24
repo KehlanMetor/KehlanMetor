@@ -25,4 +25,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KehlanMetor&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KehlanMetor&layout=compact&theme=cobalt&hide_border=true" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DDC7A0&height=120&section=footer"/>
