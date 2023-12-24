@@ -4,6 +4,35 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=KehlanMetor)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 6.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 321 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             ████████████████████░░░░░   80.00 % 
+CSS                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/12/2023 19:58:51 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
