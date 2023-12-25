@@ -4,13 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-433-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 6.1 kB Used in GitHub's Storage 
+> 📦 4.8 kB Used in GitHub's Storage 
  > 
-> 🏆 321 Contributions in the Year 2023
+> 🏆 340 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,6 +18,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+🌃 Evening                315 commits         █████████████████████░░░░   84.68 % 
+🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Tuesday                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Wednesday                183 commits         ████████████░░░░░░░░░░░░░   49.19 % 
+Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Friday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Sunday                   96 commits          ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+JavaScript               14 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  14 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+web                      14 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  14 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -32,7 +71,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2023 19:58:51 UTC
+ Last Updated on 25/12/2023 18:38:48 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
