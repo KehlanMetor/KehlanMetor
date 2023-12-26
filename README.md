@@ -4,6 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-433-blue)
 
 **🐱 My GitHub Data** 
@@ -45,16 +47,18 @@ Sunday                   96 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               14 mins             █████████████████████████   100.00 % 
+Python                   23 mins             ████████████████░░░░░░░░░   62.22 % 
+JavaScript               14 mins             █████████░░░░░░░░░░░░░░░░   37.78 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-web                      14 mins             █████████████████████████   100.00 % 
+kork                     23 mins             ████████████████░░░░░░░░░   62.22 % 
+web                      14 mins             █████████░░░░░░░░░░░░░░░░   37.78 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +75,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2023 18:38:48 UTC
+ Last Updated on 26/12/2023 18:38:47 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
