@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-433-blue)
 
@@ -47,20 +47,19 @@ Sunday                   96 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   3 hrs 45 mins       █████████████████████████   99.24 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python                   3 hrs 21 mins       █████████████████████████   99.15 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AI                       3 hrs 20 mins       ██████████████████████░░░   88.36 % 
-kork                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+AI                       3 hrs 20 mins       █████████████████████████   98.52 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +76,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2024 18:38:46 UTC
+ Last Updated on 02/01/2024 18:39:04 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
