@@ -47,21 +47,16 @@ Sunday                   96 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               16 mins             █████████████████░░░░░░░░   66.83 % 
-Python                   5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mixtralbot               13 mins             █████████████░░░░░░░░░░░░   53.37 % 
-bot                      11 mins             ███████████░░░░░░░░░░░░░░   45.08 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +73,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2024 18:38:26 UTC
+ Last Updated on 27/01/2024 18:38:32 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
