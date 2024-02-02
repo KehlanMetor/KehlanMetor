@@ -73,7 +73,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2024 18:39:44 UTC
+ Last Updated on 02/02/2024 18:39:12 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
