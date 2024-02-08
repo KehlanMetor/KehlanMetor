@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,19 +47,18 @@ Sunday                   96 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   27 mins             ███████████████░░░░░░░░░░   61.63 % 
-Rust                     16 mins             ██████████░░░░░░░░░░░░░░░   38.37 % 
+Python                   27 mins             ███████████████░░░░░░░░░░   61.72 % 
+Rust                     16 mins             ██████████░░░░░░░░░░░░░░░   38.28 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          27 mins             ███████████████░░░░░░░░░░   61.63 % 
-main                     16 mins             ██████████░░░░░░░░░░░░░░░   38.23 % 
-rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Unknown Project          27 mins             ███████████████░░░░░░░░░░   61.72 % 
+main                     16 mins             ██████████░░░░░░░░░░░░░░░   38.28 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +75,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2024 18:38:45 UTC
+ Last Updated on 08/02/2024 18:40:00 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
