@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,21 +47,21 @@ Sunday                   96 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 hr 1 min          █████████████████████░░░░   82.86 % 
-JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Rust                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JavaScript               1 hr 1 min          ███████████████░░░░░░░░░░   60.50 % 
+Rust                     32 mins             ████████░░░░░░░░░░░░░░░░░   31.38 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-supremebots-main         44 mins             ███████████████░░░░░░░░░░   59.94 % 
-Unknown Project          25 mins             █████████░░░░░░░░░░░░░░░░   34.03 % 
-main                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+supremebots-main         44 mins             ███████████░░░░░░░░░░░░░░   43.77 % 
+main                     32 mins             ████████░░░░░░░░░░░░░░░░░   31.38 % 
+Unknown Project          25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +78,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2024 18:38:37 UTC
+ Last Updated on 20/02/2024 18:39:52 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
