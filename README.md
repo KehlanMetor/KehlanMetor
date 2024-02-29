@@ -47,8 +47,7 @@ Sunday                   96 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     1 min               █████████████████████████   98.76 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+JSON                     1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  1 min               █████████████████████████   100.00 % 
@@ -74,7 +73,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2024 18:38:29 UTC
+ Last Updated on 29/02/2024 18:38:47 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
