@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,7 +12,7 @@
 
 > 📦 4.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,8 +64,9 @@ Windows                  5 mins              ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ████████████████████░░░░░   80.00 % 
-CSS                      1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               4 repos             █████████████████░░░░░░░░   66.67 % 
+CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
@@ -75,7 +76,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2024 18:38:41 UTC
+ Last Updated on 04/03/2024 18:39:55 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
