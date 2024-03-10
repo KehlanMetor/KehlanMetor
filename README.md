@@ -12,6 +12,8 @@
 
 > 📦 4.8 kB Used in GitHub's Storage 
  > 
+> 🏆 1 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -45,17 +47,16 @@ Sunday                   96 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   100.00 % 
+Python                   3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AI                       4 mins              ███████████████░░░░░░░░░░   59.49 % 
-Unknown Project          3 mins              ██████████░░░░░░░░░░░░░░░   40.51 % 
+Unknown Project          3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +74,7 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2024 18:38:39 UTC
+ Last Updated on 10/03/2024 18:39:47 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
