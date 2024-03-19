@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,18 +47,20 @@ Sunday                   96 commits          ██████░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Go                       51 mins             █████████████████████████   99.84 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Go                       51 mins             ████████████████████████░   94.13 % 
+Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-password gen             51 mins             █████████████████████████   99.84 % 
-cff3ff908a1f2692b9a8452d20 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+password gen             51 mins             ████████████████████████░   94.13 % 
+welcome-to-docker        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+cff3ff908a1f2692b9a8452d20 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +78,7 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2024 18:40:07 UTC
+ Last Updated on 19/03/2024 18:39:02 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
