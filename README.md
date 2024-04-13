@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 18.1 kB Used in GitHub's Storage 
+> 📦 18.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,16 +45,16 @@ Sunday                   104 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,7 +72,7 @@ C#                       1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2024 18:38:55 UTC
+ Last Updated on 13/04/2024 18:38:51 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
