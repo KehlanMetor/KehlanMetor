@@ -4,8 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2057%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -18,45 +16,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-🌆 Daytime                105 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-🌃 Evening                410 commits         ███████████████████░░░░░░   75.51 % 
-🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Tuesday                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Wednesday                214 commits         ██████████░░░░░░░░░░░░░░░   39.41 % 
-Thursday                 56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Friday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Saturday                 9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Sunday                   104 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -72,7 +31,7 @@ C#                       1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2024 18:38:51 UTC
+ Last Updated on 14/04/2024 22:58:31 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
