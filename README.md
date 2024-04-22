@@ -16,7 +16,7 @@
  > 
 > 📜 17 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -72,7 +72,7 @@ C#                       1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2024 18:38:49 UTC
+ Last Updated on 22/04/2024 18:38:44 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
