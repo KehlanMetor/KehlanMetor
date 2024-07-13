@@ -10,7 +10,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 20.1 kB Used in GitHub's Storage 
+> 📦 20.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 60 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +74,7 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2024 18:42:48 UTC
+ Last Updated on 13/07/2024 18:40:04 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
