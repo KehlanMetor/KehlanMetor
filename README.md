@@ -12,8 +12,6 @@
 
 > 📦 20.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -73,7 +71,7 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2025 18:47:35 UTC
+ Last Updated on 14/03/2025 18:46:15 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
