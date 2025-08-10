@@ -10,9 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 58.4 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
+> 📦 58.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,7 +71,7 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 18:51:50 UTC
+ Last Updated on 10/08/2025 18:50:37 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
