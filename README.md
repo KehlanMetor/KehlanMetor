@@ -4,13 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2057%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 58.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,7 +71,7 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 18:47:17 UTC
+ Last Updated on 30/08/2025 18:45:42 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
