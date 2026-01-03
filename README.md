@@ -18,45 +18,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-🌆 Daytime                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-🌃 Evening                377 commits         ████████████████████░░░░░   81.96 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Tuesday                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Wednesday                200 commits         ███████████░░░░░░░░░░░░░░   43.48 % 
-Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Sunday                   108 commits         ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -71,7 +32,7 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 18:53:09 UTC
+ Last Updated on 03/01/2026 18:51:54 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
