@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -73,7 +73,7 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2026 19:30:25 UTC
+ Last Updated on 19/03/2026 19:28:58 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
