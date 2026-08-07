@@ -4,7 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+%F0%9F%91%8B;Kehlan+here;Dev+ops%2C+Cybersecurity;Python+and+SQL+Master;learning+about+all+types+of+languages)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2056%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -18,6 +20,51 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+🌆 Daytime                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+🌃 Evening                377 commits         ████████████████████░░░░░   81.96 % 
+🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Tuesday                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Wednesday                200 commits         ███████████░░░░░░░░░░░░░░   43.48 % 
+Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Sunday                   108 commits         ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -32,7 +79,7 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/KehlanMetor/KehlanMetor/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:25:16 UTC
+ Last Updated on 07/08/2026 19:32:19 UTC
 <!--END_SECTION:waka-->
 
 ## My coding languages :
